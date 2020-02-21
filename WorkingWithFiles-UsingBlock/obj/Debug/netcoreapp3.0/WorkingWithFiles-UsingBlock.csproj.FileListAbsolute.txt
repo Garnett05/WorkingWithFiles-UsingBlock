@@ -1,0 +1,11 @@
+D:\Documentos\C#\WorkingWithFiles-UsingBlock\WorkingWithFiles-UsingBlock\bin\Debug\netcoreapp3.0\WorkingWithFiles-UsingBlock.exe
+D:\Documentos\C#\WorkingWithFiles-UsingBlock\WorkingWithFiles-UsingBlock\bin\Debug\netcoreapp3.0\WorkingWithFiles-UsingBlock.deps.json
+D:\Documentos\C#\WorkingWithFiles-UsingBlock\WorkingWithFiles-UsingBlock\bin\Debug\netcoreapp3.0\WorkingWithFiles-UsingBlock.runtimeconfig.json
+D:\Documentos\C#\WorkingWithFiles-UsingBlock\WorkingWithFiles-UsingBlock\bin\Debug\netcoreapp3.0\WorkingWithFiles-UsingBlock.runtimeconfig.dev.json
+D:\Documentos\C#\WorkingWithFiles-UsingBlock\WorkingWithFiles-UsingBlock\bin\Debug\netcoreapp3.0\WorkingWithFiles-UsingBlock.dll
+D:\Documentos\C#\WorkingWithFiles-UsingBlock\WorkingWithFiles-UsingBlock\bin\Debug\netcoreapp3.0\WorkingWithFiles-UsingBlock.pdb
+D:\Documentos\C#\WorkingWithFiles-UsingBlock\WorkingWithFiles-UsingBlock\obj\Debug\netcoreapp3.0\WorkingWithFiles-UsingBlock.csprojAssemblyReference.cache
+D:\Documentos\C#\WorkingWithFiles-UsingBlock\WorkingWithFiles-UsingBlock\obj\Debug\netcoreapp3.0\WorkingWithFiles-UsingBlock.AssemblyInfoInputs.cache
+D:\Documentos\C#\WorkingWithFiles-UsingBlock\WorkingWithFiles-UsingBlock\obj\Debug\netcoreapp3.0\WorkingWithFiles-UsingBlock.AssemblyInfo.cs
+D:\Documentos\C#\WorkingWithFiles-UsingBlock\WorkingWithFiles-UsingBlock\obj\Debug\netcoreapp3.0\WorkingWithFiles-UsingBlock.dll
+D:\Documentos\C#\WorkingWithFiles-UsingBlock\WorkingWithFiles-UsingBlock\obj\Debug\netcoreapp3.0\WorkingWithFiles-UsingBlock.pdb
